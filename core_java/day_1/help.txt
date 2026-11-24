@@ -1,0 +1,2 @@
+Install JDK 11  - .msi
+https://adoptium.net/temurin/releases?version=11&os=any&arch=any
